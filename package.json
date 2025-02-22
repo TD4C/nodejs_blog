@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TD4C/nodejs_blog.git"
+  },
+  "keywords": [
+    "blog",
+    "main",
+    "time",
+    "date"
+  ],
+  "author": "HTdat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TD4C/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/TD4C/nodejs_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
